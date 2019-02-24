@@ -1,7 +1,4 @@
 import java.net.*;
-
-import javafx.scene.control.TreeTableCell;
-
 import java.io.*;
 
 public class ClientRead
